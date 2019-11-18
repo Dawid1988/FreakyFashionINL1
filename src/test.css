@@ -1,0 +1,11 @@
+li {
+  border-block-end-color: red;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+}
